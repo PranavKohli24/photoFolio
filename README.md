@@ -3,4 +3,4 @@ Photofolio is an photo storing web app where multiple users can store their phot
 
 It used React.js and firebase(for storing data).
 
-The code is in 'new_branch'.
+The code is in the 'new_branch'.
